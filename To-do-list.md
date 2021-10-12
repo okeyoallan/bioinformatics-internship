@@ -6,3 +6,5 @@
 
 >Create a project on GitHub.
 
+>Formation of DNA from chromatids to chromosomes
+

@@ -8,6 +8,13 @@
 
 >Formation of DNA from chromatids to chromosomes, sugars, structure.    
 
->Diff DNA and RNA 
->
+>Diff DNA and RNA    
 
+>Amino acids, from  codons 
+   
+>Mutations  
+  
+>One letter code, three letter codes and codons    
+
+>Open reading frames    
+>

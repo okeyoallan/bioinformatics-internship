@@ -6,7 +6,8 @@
 
 >Create a project on GitHub.
 
->Formation of DNA from chromatids to chromosomes, sugars, structure.
+>Formation of DNA from chromatids to chromosomes, sugars, structure.    
+
 >Diff DNA and RNA 
 >
 

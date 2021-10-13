@@ -16,5 +16,6 @@
   
 >One letter code, three letter codes and codons    
 
->Open reading frames    
->
+>Open reading frames
+    
+>Unix assignment    

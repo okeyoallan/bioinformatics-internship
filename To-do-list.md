@@ -18,4 +18,8 @@
 
 >Open reading frames
     
->Unix assignment    
+>Bash script exercise
+
+>Shell scripts
+
+>Finding things     

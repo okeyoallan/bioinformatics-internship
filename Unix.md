@@ -28,4 +28,25 @@ mv, moves
 '*' anything, many characters     
 '?' one character,     
 
+## Pipes and filters    
+wc, word count.  
+wc -m,c charactes. -l, line couint    
+redirect command >    
+Append >>    
 
+# **NO SPACES**    
+Echo command, print on screen.    
+Cut, remove, cut out sections of line in  a file    
+Uniq, removes duplicates    
+
+## Variables    
+
+  * Ctrl A, takes you back to the begining of the command    
+  * Ctrl E, end of the command   
+  * !$, retrieve last word of last code   
+  * !!, Retrieve immediate preceeding command.    
+  * Ctrl R, history search in a reverse order, matches letter input next. Most recent to the last. 
+  * !(number), repeats commands by number.
+  * 
+# Loops
+for loop    

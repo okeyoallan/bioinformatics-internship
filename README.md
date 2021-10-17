@@ -4,7 +4,7 @@ Vision: To be able to use programing and computational skills to analyse genomic
 
 
 # Tables of Content
-1. [Introduction]
+1. [Introduction](https://github.com/okeyoallan/bioinformatics-internship/blob/main/introduction-to-bioinformatics.md)
 2. [What is bioinformatics]
 3. [How important is bioinformatics]
 4. 

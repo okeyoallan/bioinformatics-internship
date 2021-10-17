@@ -5,6 +5,10 @@ Vision: To be able to use programing and computational skills to analyse genomic
 
 # Tables of Content
 1. [Introduction](https://github.com/okeyoallan/bioinformatics-internship/blob/main/introduction-to-bioinformatics.md)
-2. [What is bioinformatics]
-3. [How important is bioinformatics]
-4. 
+2. [Unix Shell](https://github.com/okeyoallan/bioinformatics-internship/blob/main/Unix.md)
+3. [My Wiki](https://github.com/okeyoallan/bioinformatics-internship/wiki)
+4. [Molecular Biology Concepts](https://github.com/okeyoallan/Molecular-biology-concept)
+5. 1. [Central Dogma of Molecular Biology](https://github.com/okeyoallan/Central-dogma-of-molecular-biology)
+6. 
+7.
+8. 

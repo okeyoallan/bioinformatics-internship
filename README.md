@@ -1,25 +1,15 @@
-# bioinformatics-internship
-Mission: To learn and acquire bioinformatics and research skills. 
-Vision: To be able to use programing and computational skills to analyse genomics data to find health related solutions and start a career in bioinformatics. 
+# Bioninformatics internship - ICIPE    
 
+## About
+_My names are Okeyo Allan, currently on a bioinformatics at ICIPE. I have a background in molecular biology and with an interest in bioinformatics and data science. I am aiming at taking part in coming up with solutions to health problems facing Africa and the world at large through analysis of available biological data and coming up with long term  innovative approaches to curbing health burden._    
 
-# Tables of Content
+## Mission
+To acquire research, bioinformatics and analytical skills to be able to start up the journey into a bioinformatics career.    
 
- - [Introduction](# Introduction to bioinformatics) 
- 
-5.
-6. 
-7.
+## Vision
+To become part of the big data team that will find long lasting solutions to health crisis and as well as be one of the leading bioinformaticians in Africa.    
 
-   # Introduction to bioinformatics
+## Road Map
+_Below is an outline of the steps I will have to undertake to be able to achieve both my short-term and long-term goals._    
 
-  _Omics studies_
-  
- Collecticg tech explore role and actions of chemicals that make up an organism.    
-  * Transcriptomics
-  * Proteo
-  * Geno
-  * Metabolo
-  * Metageno
-  * Microbiom
 

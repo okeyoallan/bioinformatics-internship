@@ -1,7 +1,7 @@
 # Bioninformatics internship - ICIPE    
 
 ## About
-_My names are Okeyo Allan, currently on a bioinformatics at ICIPE. I have a background in molecular biology and with an interest in bioinformatics and data science. I am aiming at taking part in coming up with solutions to health problems facing Africa and the world at large through analysis of available biological data and coming up with long term  innovative approaches to curbing health burden._    
+_My names are Okeyo Allan, currently on a bioinformatics internship at ICIPE. I have a background in molecular biology and with an interest in bioinformatics and data science. I am aiming at taking part in coming up with solutions to health problems facing Africa and the world at large through analysis of available biological data and coming up with long term  innovative approaches to curbing health burden._    
 
 ## Mission
 To acquire research, bioinformatics and analytical skills to be able to start up the journey into a bioinformatics career.    

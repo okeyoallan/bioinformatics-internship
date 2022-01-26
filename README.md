@@ -10,6 +10,6 @@ To acquire research, bioinformatics and analytical skills to be able to start up
 To become part of the big data team that will find long lasting solutions to health crisis and as well as be one of the leading bioinformaticians in Africa.    
 
 ## Road Map
-_Below is an outline of the steps I intend to undertake to be able to achieve both my short-term and long-term goals._    
+Here is the [roadmap](https://github.com/okeyoallan/bioinformatics-internship/issues/1) I will be ollowing through this internship journey.
 
 

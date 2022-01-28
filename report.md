@@ -64,6 +64,7 @@ My bigger picture for this program was to acquire additional skills and as well 
  - Communication skills 
  - Designing a pipeline workflow 
  - Analytical skills 
+ - Creating and running docker image
 
 ## Recommendations 
 I have to express my gratitude to the [ICIPE](http://www.icipe.org/) for coming up with this opportunity to educate and empower graduates with the skills and techniques to be able to take up career in bioinformatics and related researchh work.
